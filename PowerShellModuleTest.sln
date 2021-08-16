@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerShellModuleTest.Cmdlet", "PowerShellModuleTest.Cmdlet\PowerShellModuleTest.Cmdlet.csproj", "{021663BA-AD90-404D-9EF1-20D8F6E22EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerShellModuleTest.UnitTests", "PowerShellModuleTest.UnitTests\PowerShellModuleTest.UnitTests.csproj", "{62BC0C0E-A137-412C-B5B5-0CF176274FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021663BA-AD90-404D-9EF1-20D8F6E22EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021663BA-AD90-404D-9EF1-20D8F6E22EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021663BA-AD90-404D-9EF1-20D8F6E22EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021663BA-AD90-404D-9EF1-20D8F6E22EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BC0C0E-A137-412C-B5B5-0CF176274FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BC0C0E-A137-412C-B5B5-0CF176274FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BC0C0E-A137-412C-B5B5-0CF176274FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BC0C0E-A137-412C-B5B5-0CF176274FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
